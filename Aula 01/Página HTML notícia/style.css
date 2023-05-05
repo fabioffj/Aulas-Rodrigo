@@ -1,0 +1,19 @@
+body {
+    font-size: large;
+    font-family: 'Instrument Serif', serif;
+    font-family: 'Playfair Display', serif;
+    background: #1245789c;
+    font-weight: bold;    
+}
+
+img {    
+    width: 30%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

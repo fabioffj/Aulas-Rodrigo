@@ -1,0 +1,9 @@
+body {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    color: whitesmoke;
+    background: rgb(38, 41, 49);
+}
+
+img {
+    width: 50%;
+}
