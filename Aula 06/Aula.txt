@@ -1,0 +1,8 @@
+Header
+Nav
+Section/Main/Article
+Footer
+
+Aside
+
+Substituem as tags div na construção do site em geral
